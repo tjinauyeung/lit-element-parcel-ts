@@ -1,0 +1,21 @@
+{
+  "name": "lit-element-ts-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "12.7.11",
+    "lit-element": "2.2.1"
+  },
+  "devDependencies": {
+    "typescript": "3.6.3"
+  },
+  "browserslist": [
+    "Chrome > 50"
+  ]
+}
